@@ -32,6 +32,8 @@ So what's next to explore? I can convert the hex value into many other base numb
 
 Any other ideas, I welcome PRs :)
 
+NOTE: it's possible that `lol` references `League of Legends` as related `lol` repositories in a forker's arsenal show: https://github.com/digideskio?utf8=%E2%9C%93&tab=repositories&q=lol&type=&language=
+
 `¯\_(ツ)_/¯`
 
 
