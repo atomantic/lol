@@ -1,0 +1,22 @@
+{
+  "name": "lol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmaxwell/lol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmaxwell/lol/issues"
+  },
+  "homepage": "https://github.com/gmaxwell/lol#readme",
+  "dependencies": {
+    "big-integer": "1.6.43"
+  }
+}
